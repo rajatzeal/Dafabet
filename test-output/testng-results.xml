@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-30T00:30:47 IST" name="Default suite" finished-at="2022-08-30T00:30:52 IST" duration-ms="5389">
+    <groups>
+    </groups>
+    <test started-at="2022-08-30T00:30:47 IST" name="Default test" finished-at="2022-08-30T00:30:52 IST" duration-ms="5389">
+      <class name="com.qa.GETApiTest">
+        <test-method signature="dateFormat()[pri:0, instance:com.qa.GETApiTest@6e4784bc]" started-at="2022-08-30T00:30:47 IST" name="dateFormat" finished-at="2022-08-30T00:30:47 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateFormat -->
+        <test-method signature="getAPITest()[pri:0, instance:com.qa.GETApiTest@6e4784bc]" started-at="2022-08-30T00:30:47 IST" name="getAPITest" finished-at="2022-08-30T00:30:52 IST" duration-ms="5224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPITest -->
+        <test-method signature="responseBody()[pri:0, instance:com.qa.GETApiTest@6e4784bc]" started-at="2022-08-30T00:30:52 IST" name="responseBody" finished-at="2022-08-30T00:30:52 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseBody -->
+        <test-method signature="responseNotNull()[pri:0, instance:com.qa.GETApiTest@6e4784bc]" started-at="2022-08-30T00:30:52 IST" name="responseNotNull" finished-at="2022-08-30T00:30:52 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseNotNull -->
+        <test-method signature="responseText()[pri:0, instance:com.qa.GETApiTest@6e4784bc]" started-at="2022-08-30T00:30:52 IST" name="responseText" finished-at="2022-08-30T00:30:52 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseText -->
+        <test-method signature="responseTime()[pri:0, instance:com.qa.GETApiTest@6e4784bc]" started-at="2022-08-30T00:30:52 IST" name="responseTime" finished-at="2022-08-30T00:30:52 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseTime -->
+        <test-method signature="statusCode()[pri:0, instance:com.qa.GETApiTest@6e4784bc]" started-at="2022-08-30T00:30:52 IST" name="statusCode" finished-at="2022-08-30T00:30:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCode -->
+      </class> <!-- com.qa.GETApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
